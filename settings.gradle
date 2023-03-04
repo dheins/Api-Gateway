@@ -1,0 +1,6 @@
+rootProject.name = 'api-gateway-example'
+
+include 'api-gateway'
+include 'eureka-server'
+include 'test-customer-service'
+include 'test-invoice-service'
